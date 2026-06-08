@@ -1,12 +1,1 @@
-# Activity 3 conflict line: Alec branch two change.
-
-# Git Activities
-
-This repository holds a number of activities to aid in your learning of GIT.
-
-## Your Task
-
-Walk through the assignments to gain a solid understanding of working with GIT.
-
-* Please check and follow: Activity0.md -> Activity3.md
-
+Activity 3 conflict line: Alec resolved the branch one and branch two changes.
